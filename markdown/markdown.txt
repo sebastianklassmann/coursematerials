@@ -1,0 +1,2 @@
+this folder contains informations on how to use Mardown / LaTex and HTML within
+Markdown cells in a Jupyter notebook.
